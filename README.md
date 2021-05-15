@@ -5,3 +5,5 @@ this is a tutorial on how to pring something in python
 ```
 python xxx.py
 ```
+
+Credit to bash0x0 for the idea
